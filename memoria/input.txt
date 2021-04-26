@@ -1,0 +1,11 @@
+Soy
+un
+Archivo
+Que
+Espera
+un
+Stream
+Para
+Que
+Lo
+Lea
